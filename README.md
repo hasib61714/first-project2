@@ -15,7 +15,11 @@ This app stores tasks in the **browser's Local Storage**, so even if you refresh
 ---
 
 ## 📂 Project Structure
-
+📁 ToDo-List-App
+├── index.html # HTML structure
+├── style.css # Styling
+├── script.js # Functionality
+└── README.md # Documentation
 ---
 
 ## 🛠️ Technologies Used
