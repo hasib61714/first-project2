@@ -15,3 +15,20 @@ This app stores tasks in the **browser's Local Storage**, so even if you refresh
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
+- **Local Storage API**
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/todo-list-app.git
+cd todo-list-app
